@@ -7,16 +7,22 @@
 "keywords": [ 
 "key X", 
 "key Y", 
-"key Z" ], 
+"key Z" 
+], 
 "category": "amusedamused", 
 "author": { 
 "name": "amusedamused", 
 "email": "amused.av@gmail.com", 
-"url": "https://github.com/amusedamused" } 
-}
-
-"publishConfig": { "registry": "https://npm.pkg.github.com/amusedamused" }
+"url": "https://github.com/amusedamused" 
+} 
+,
 "repository": { 
 "type": "git", 
 "url": "ssh://git@github.com:amusedamused/unitypackages.git", 
-"directory": "com.myorg.<packagename>" }
+"directory": "com.myorg.<packagename>" 
+},
+"publishConfig": { 
+  "registry": "https://npm.pkg.github.com/amusedamused" 
+}
+}
+
