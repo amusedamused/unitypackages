@@ -1,5 +1,5 @@
 { 
-"name": "com.unity.xr.openxr.picoxr"", 
+"name": "com.unity.xr.openxr.picoxr", 
  "displayName": "OpenXR PICO Plugin",
   "version": "1.0.0",
   "unity": "2020.3",
